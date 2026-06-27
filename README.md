@@ -1,4 +1,4 @@
-# MoniPortal (formerly ManyMonitor)
+# MoniPortal
 
 
 [English](#english) | [繁體中文](#繁體中文)
