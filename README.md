@@ -138,8 +138,6 @@ Send one of your screens to another PC running MoniPortal — low-latency **H.26
 ### 6. Cast to Any Browser — Zero Install · *Pro*
 Turn an old iPad, Android tablet, smart-TV browser, or spare laptop into an extra display. The receiving device just **scans a QR code** (or opens a URL) — **no app to install**. Bandwidth-smart (only changed frames are sent) so it stays smooth even on weak Wi-Fi, and access is gated by a per-session token.
 
-### 7. Privacy First & Offline Capable
-Screen handling is **100% local** — nothing is uploaded. The only network use is a quick license check on activation, then it runs offline for up to **14 days** between checks.
 
 ---
 
