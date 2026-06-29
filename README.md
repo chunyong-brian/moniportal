@@ -6,7 +6,7 @@
 [![OS-Windows](https://img.shields.io/badge/OS-Windows%2010%20%7C%2011-blue?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
 [![License-Free_Pro](https://img.shields.io/badge/License-Free%20%2F%20Pro-brightgreen?style=flat-square)](#editions--版本比較)
 [![Category-Productivity](https://img.shields.io/badge/Category-Productivity-orange?style=flat-square)](#editions--版本比較)
-[![Payment-ECPay](https://img.shields.io/badge/金流-綠界科技%20%7C%20ECPay-green?style=flat-square)](https://moniportal.zeabur.app/buy)
+[![Payment-ECPay](https://img.shields.io/badge/金流-綠界科技%20%7C%20ECPay-green?style=flat-square)](https://moniportal.tw/buy)
 
 [繁體中文](#-繁體中文) | [English](#-english)
 
@@ -57,7 +57,8 @@
 ### 6. 投放到任何瀏覽器 — 免安裝 · *Pro*
 把舊 iPad、Android 平板、電視瀏覽器或閒置筆電變成您的副螢幕。接收端只要**掃 QR Code**（或開網址），**完全不用裝任何 App**。頻寬極度優化（只送有變動的畫面），弱 Wi-Fi 也順，並使用每次連線的動態安全性權杖（Token）嚴格把關。
 
-
+### 7. 隱私至上與離線使用
+畫面處理 **100% 在本機**，絕不上傳。唯一的連網是啟用時的授權驗證，之後最長 **14 天**離線寬限期內都不需連網。
 
 ---
 
@@ -101,7 +102,7 @@
 ## 📥 下載與購買
 
 *   **下載（免費版）：** [取得安裝檔](#) *(您的發行版/下載連結)*
-*   **購買 Pro：** **https://moniportal.zeabur.app/buy** — 安全結帳，付款後立即自動取得授權碼。
+*   **購買 Pro：** **https://moniportal.tw/buy** — 安全結帳，付款後立即自動取得授權碼。
 
 > 💡 *首次執行時 Windows 可能顯示 SmartScreen「未知發行者」提示，點「**更多資訊 → 仍要執行**」即可安全開啟。*
 
@@ -138,6 +139,8 @@ Send one of your screens to another PC running MoniPortal — low-latency **H.26
 ### 6. Cast to Any Browser — Zero Install · *Pro*
 Turn an old iPad, Android tablet, smart-TV browser, or spare laptop into an extra display. The receiving device just **scans a QR code** (or opens a URL) — **no app to install**. Bandwidth-smart (only changed frames are sent) so it stays smooth even on weak Wi-Fi, and access is gated by a per-session token.
 
+### 7. Privacy First & Offline Capable
+Screen handling is **100% local** — nothing is uploaded. The only network use is a quick license check on activation, then it runs offline for up to **14 days** between checks.
 
 ---
 
@@ -181,6 +184,6 @@ Each Pro license key allows **up to 3 devices** to be activated simultaneously. 
 ## 📥 Download & Purchase
 
 *   **Download (Free):** [Get the installer](#) *(your release / download link)*
-*   **Buy Pro:** **https://moniportal.zeabur.app/buy** — secure checkout; your license key is issued instantly.
+*   **Buy Pro:** **https://moniportal.tw/buy** — secure checkout; your license key is issued instantly.
 
 > 💡 *Windows may show a SmartScreen "unknown publisher" notice on first run — click **More info → Run anyway** to launch it safely.*
