@@ -1,6 +1,8 @@
 # MoniPortal
 
-**看得到、控得到、隨心投放 — 你的多螢幕終極控制中心。**
+**螢幕不只一個，專注可以在同一處。**
+
+在主螢幕預覽與操作其他螢幕，透過區域網路分享畫面。
 **See, control, and share your other monitors — from one tidy panel.**
 
 [![OS-Windows](https://img.shields.io/badge/OS-Windows%2010%20%7C%2011-blue?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
@@ -11,6 +13,19 @@
 
 ---
 
+## 適合什麼時候使用？ / Everyday use
+
+- **展示與教學**：副螢幕面向客戶或學生時，在自己的主螢幕確認並操作畫面。
+- **多螢幕工作 · Pro**：將開啟的視窗分派到指定螢幕，減少來回拖曳。
+- **平板觀看 · Pro**：透過同一區域網路，在平板瀏覽器觀看電腦投放的畫面；接收端不需安裝 App。
+
+Preview and control displays facing your audience, arrange windows across monitors with Pro, or share a screen to a tablet browser on the same LAN with Pro.
+
+瀏覽器投放是分享既有畫面，不會新增 Windows 虛擬延伸螢幕。  
+Browser casting shares an existing screen; it does not create an additional Windows virtual display.
+
+---
+
 ## 下載 / Download
 
 **[⬇ 下載免費版 MoniPortal-Setup.exe](https://github.com/chunyong-brian/moniportal/releases/latest/download/MoniPortal-Setup.exe)**
@@ -18,8 +33,8 @@
 > Windows 可能顯示 SmartScreen「未知發行者」提示，點「更多資訊 → 仍要執行」即可安全開啟。
 > Windows may show a SmartScreen "unknown publisher" notice on first run — click **More info → Run anyway**.
 
-購買 Pro（一次買斷，非訂閱）：[moniportal.tw/buy](https://moniportal.tw/buy)
-Buy Pro (one-time purchase, no subscription): [moniportal.tw/buy](https://moniportal.tw/buy)
+購買 Pro（**NT$130 一次性買斷，非訂閱**）：[moniportal.tw/buy](https://moniportal.tw/buy)
+Buy Pro (**TWD 130, one-time purchase, no subscription**): [moniportal.tw/buy](https://moniportal.tw/buy)
 
 ---
 
